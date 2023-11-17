@@ -21,3 +21,6 @@ main.main.func1()
 created by main.main
         /Users/sohankathait/Desktop/deadlock/deadlock.go:21 +0xd1
 exit status 2
+
+**Note:**
+1. We will only get the deadlock error if all goroutines are asleep. In case any of the goroutine is running, program will wait indefinitely for the response from the closed channel.
