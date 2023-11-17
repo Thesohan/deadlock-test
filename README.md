@@ -20,4 +20,4 @@ main.main.func1()
         /Users/sohankathait/Desktop/deadlock/deadlock.go:28 +0x9f
 created by main.main
         /Users/sohankathait/Desktop/deadlock/deadlock.go:21 +0xd1
-exit status 2 ```
+exit status 2
